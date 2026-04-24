@@ -4,7 +4,7 @@
  *  
  *  Codigo Base: https://ideone.com/JU5CfV
  *  
- *  compilar: $ gcc tarefa3.c -fopenmp -lm -o sieve
+ *  compilar: $ gcc tarefa7.c -fopenmp -lm -o sieve
  *  executar: $ time ./sieve.exe
  */
 
@@ -62,6 +62,6 @@ int main()
 
 // Teste Paralelo:
 // 5761455
-// real    0m0.340s
-// user    0m0.061s
-// sys     0m0.031s
+// real    0m0.325s
+// user    0m0.030s
+// sys     0m0.045s

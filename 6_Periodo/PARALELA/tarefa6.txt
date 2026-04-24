@@ -1,0 +1,36 @@
+## Tarefa 6
+
+Qual a quantidade de poder de processamento mínima, em FLOPS (operações por segundo), de um supercomputador necessária para substituir TODOS os pesquisadores (cérebros) do mundo e a ciência avançar sem os humanos? Cite as fontes utilizadas, explique cada passo do raciocínio lógico utilizado e os cálculos realizados.
+
+## Reposta
+
+De acordo com o senso de 2016 [1], feito pela plataforma Lattes, foram registrado aproximadamente 200 mil pesquisadores e segundo a plataforma de notícias acadêmicas, The Conversation, desde de 1900 o número de artigos cientificos publicados dobrou a cada 10 ou 15 anos e a partir de 1980 cresce cerca de 8% a 9% anualmente. Além disso, nos últimos anos, o aumento da demanda e do acesso ao ensino superior provocou uma revolução educacional global, essa que impulsionou e impulsiona até os dias de hoje a capacidade de pesquisa ciêntica [2]. Dessa maneira, os cientista, das mais diversas universisdades, contribuem com cerca de 80% a 90% das descobertas publicadas todos os anos [2].
+
+Em segunda análise, a Inteligência Artificial (IA) é uma inteligência que supera em quase todos os âmbitos a inteligência do ser humano, porém sua competência é limitada a tarefas bem definidas. Nesse sentido, a utilização da IA no meio cientifico é inevitável, pois auxiliam na publicação de artigos, obtenção de citações, etc., porém a ciência como um todo pode estar explorando um espectro de ideias mais restrito [3].
+
+Diante dos cenários anteriores, surge a seguinte pergunta: seria possível um supercomputador substituir todos os cientista do mundo e ciência avançar sem os humanos?. De acordo com site da IBM: "a supercomputação é medida em FLOPS, petaflops são uma medida da velocidade de processamento de um computador igual a milhares de trilhões de flops. E um sistema de computador de 1 petaflop pode executar um quadrilhão (10^15) flops. De uma perspectiva diferente, os supercomputadores podem ter um milhão de vezes mais poder de processamento do que o notebook mais rápido" [4]. Tendo em vista que um supercomputador é capaz de realizar um número inimaginável de cálculos por segundo, então tem-se poder computacional, porém tamanho poder sem uma inteligência gerenciando não traria benefício algum. Assim, tende-se a pensar que uma possível resposta à pergunta anterior seria: um supercomputador com uma IA junto. Entretando, surge uma nova questão: o quão inteligente a IA deve ser?
+
+Um estudo sobre o cérebro humano revelou que o cérebro possui cerca de 10^11 neurônios, cerca de 86 bilhões, e o número de sinapses é aproximadamente de 10^15, cerca de 1 quatrilhão. Além disso, cada neurônio pode disparar sinais elétricos diversas vezes por segundo. Considerando estimativas comuns da literatura, cada sinapse pode realizar entre 1 e 100 operações por segundo. Dessa forma, pode-se estimar aproximadamente a quantidade de operações realizadas pelo cérebro humano por segundo. [6]
+
+Se considerarmos o número de sinapses (10^15) e uma média de aproximadamente 10 operações por segundo por sinapse, temos:
+
+10^15 × 10 = 10^16 operações por segundo.
+
+Assim, pode-se estimar que um cérebro humano realiza cerca de 10^16 FLOPS (operações por segundo). Esse valor é uma aproximação utilizada em diversos estudos que tentam comparar o cérebro humano com computadores modernos [5].
+
+Considerando agora a quantidade de pesquisadores citada anteriormente (aproximadamente 200 mil), podemos estimar a capacidade computacional total equivalente a todos esses cérebros trabalhando simultaneamente.
+
+10^16 FLOPS × 2 × 10^5 = 2 × 10^21 FLOPS.
+
+Portanto, para substituir aproximadamente todos os pesquisadores considerados no cenário descrito, seria necessário um sistema computacional capaz de realizar cerca de 2 × 10^21 FLOPS, ou seja, aproximadamente 2 zettaFLOPS.
+
+Para efeito de comparação, os supercomputadores mais rápidos do mundo atualmente operam na escala de exaFLOPS (10^18 FLOPS). Isso significa que, para atingir o valor estimado anteriormente, seria necessário um sistema aproximadamente mil vezes mais poderoso do que um supercomputador de 1 exaFLOP.
+
+Dessa forma, pode-se concluir que um supercomputador com capacidade na ordem de zettaFLOPS, aliado a uma Inteligência Artificial avançada capaz de realizar raciocínio científico, poderia teoricamente substituir a capacidade computacional dos pesquisadores humanos para produção científica. Entretanto, essa estimativa considera apenas o poder de processamento bruto e não leva em conta aspectos como criatividade, intuição, colaboração e contexto social, que também desempenham papel fundamental no avanço da ciência.
+
+[1] https://lattes.cnpq.br/web/dgp/censo-atual/
+[2] https://theconversation.com/o-crescimento-explosivo-da-pesquisa-cientifica-atual-nao-foi-o-que-os-especialistas-previram-241435
+[3] https://www.nature.com/articles/s41586-025-09922-y
+[4] https://www.ibm.com/br-pt/think/topics/supercomputing
+[5] https://aiimpacts.org/scale-of-the-human-brain/
+[6] https://www.quora.com/Roughly-what-processing-power-does-the-human-brain-equate-to-In-terms-of-petaflops-or-gigahertz-not-words-it-can-process
