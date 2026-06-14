@@ -1,6 +1,0 @@
-/**
- * Computacao Paralela
- * 812939 - Vinicius Miranda de Araujo
- */
-
-Existe uma teoria que permita prever, para qualquer aplicação baseada em paralelismo de tarefas, qual combinação entre número de threads, tamanho ideal das tarefas, política de escalonamento e limite de criação de subtarefas produzirá o melhor desempenho em diferentes arquiteturas de hardware, sem depender de testes empíricos? Se não existe, quais fatores tornam esse problema intratável de forma geral?
