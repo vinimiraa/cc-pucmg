@@ -7,10 +7,10 @@ Romanelli Lodron Zuim.
 
 ## 📑 Estrutura do Repositório
 
-- [EPs](/3_Periodo/AC_II/EPs/) : Exercícios Práticos.
-- [Listas](/3_Periodo/AC_II/Listas/) : Lista de Exercícios Teóricos.
-- [Material](/3_Periodo/AC_II/Material/) : Material disponibilizado pelo professor.
-- [Provas](/3_Periodo/AC_II/Provas/) : Provas realizadas.
+- `/EPs`: Exercícios Práticos.
+- `/Listas`: Lista de Exercícios Teóricos.
+- `/Material`: Material disponibilizado pelo professor.
+- `/Provas`: Provas realizadas.
 
 ## 👨‍💻 Autor
 
