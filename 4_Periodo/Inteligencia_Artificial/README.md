@@ -9,7 +9,7 @@ Neri Nobre.
 
 - `/Listas`: Lista de Exercícios semanais.
 - `/Atividade_Pratica_1` : Atividade prática sobre um dos temas.
-- `/Provas`: Provas realizadas.
+- `/Prova_1`: Fotos da primeira prova.
 
 ## 👨‍💻 Autor
 
