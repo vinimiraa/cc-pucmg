@@ -6,9 +6,8 @@ Contém todos os PDFs dos conteúdos passados nas aulas assíncronas, além dos 
 
 ## 📑 Estrutura do Repositório
 
-- [eCommerce](/1_Periodo/DIW/eCommerce/) : Trabalho sobre fazer o site de um produto.
-- [eCommerce 2](/1_Periodo/DIW/eCommerce_2/) : Trabalho sobre fazer um site utilizando API.
-- [Material](/1_Periodo/DIW/Material/) : Material disponibilizado pelo professor.
+- `/eCommerce`: Trabalho sobre fazer o site de um produto.
+- `/eCommerce_2`: Trabalho sobre fazer um site utilizando API.
 
 ## 👨‍💻 Autor
 
