@@ -2,7 +2,7 @@
 
 ## 📑 Estrutura do Repositório
 
-- [Provas](/1_Periodo/C1/Provas/) : Provas realizadas.
+- `/Provas`: Provas realizadas.
 
 ## 👨‍💻 Autor
 
