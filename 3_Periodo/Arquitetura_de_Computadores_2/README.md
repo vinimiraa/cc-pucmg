@@ -10,7 +10,7 @@ Romanelli Lodron Zuim.
 - `/EPs`: Exercícios Práticos.
 - `/Listas`: Lista de Exercícios Teóricos.
 - `/Material`: Material disponibilizado pelo professor.
-- `/Provas`: Provas realizadas.
+- `/Prova_1`: Fotos da primeira prova.
 
 ## 👨‍💻 Autor
 
