@@ -7,9 +7,9 @@ Alves Stradioto.
 
 ## 📑 Estrutura do Repositório
 
-- [Atividade](/4_Periodo/EP/Atividades/) : Exercícios Avaliativos após parte da matéria.
-- [EA](/4_Periodo/EP/EA/) : Exercícios Avaliativos semanais da Terça-feira.
-- [Material](/4_Periodo/EP/Material/) : Apostila disponibilizada pela professora.
+- `/Atividades`: Exercícios Avaliativos após parte da matéria.
+- `/EA`: Exercícios Avaliativos semanais da Terça-feira.
+- `/Material`: Apostila disponibilizada pela professora.
 
 ## 👨‍💻 Autor
 
