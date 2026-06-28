@@ -1,0 +1,27 @@
+# Resumo: File Transfer Protocol (FTP)
+
+- Conceitos:
+	- Implementa o serviço de transferência de arquivos
+	- Permite a transferência de arquivos completos de uma estação para outra
+	- Define um conjunto de comandos e respostas
+	- Baseado no modelo cliente-servidor
+	- Utiliza o protocolo TCP na camada de transporte
+- Componentes da Arquitetura:
+	- Cliente FTP:
+		- Utilizado pelo usuário para realizar transferência de arquivos
+	- Servidor FTP:
+		- Processa requisições de transferência de arquivos dos clientes FTP
+		- Usuário deve ter login no servidor ou utilizar um anonymous user
+	- Conexões do FTP:
+		- Conexão de controle (porta 21)
+			- Usada pelo cliente para enviar comandos ao servidor
+			- Usada pelo servidor para enviar respostas ao cliente
+			- Permanentemente ativa durante toda a sessão
+			- Servidor aguarda requisições de conexão na porta TCP 21
+		- Conexão de dados (porta 20)
+			- Usada pelo cliente e pelo servidor para a transferência de dados
+			- Arquivo do cliente para o servidor e vice-versa
+			- Listagem de diretório do servidor para o cliente
+			- Permanece ativa somente durante o envio de dados
+			- Nova conexão de dados é criada para cada envio de dados
+			- Servidor adota a porta TCP 20
